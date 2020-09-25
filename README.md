@@ -1,3 +1,3 @@
 # Basic Calculator
 
-![Calculator Image] (img/Calculator)
+![Calculator Image] (img/Calculator.gif)
