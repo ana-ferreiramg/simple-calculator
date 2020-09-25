@@ -1,3 +1,4 @@
 # Basic Calculator
-
-![Calculator Image] (img/Calculator.gif)
+<p align="center">
+  <img src="img/Calculator.gif" alt="Calculator gif"/>
+</p>
