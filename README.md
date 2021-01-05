@@ -5,11 +5,11 @@
 
 <h2>🚀 Technologies</h2>
 <ul style="list-style: none;">
-    <li>
+    <li list-style-type: none;>
       <img src="imgs_readme/html.png" width="60px" height="60px"/>
       HTML5
     </li>
-    <li>
+    <li list-style-type: none;>
       <img src="imgs_readme/css.png" width="60px" height="60px"/>
       CSS3
     </li>
